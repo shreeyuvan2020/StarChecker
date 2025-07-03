@@ -1,0 +1,20 @@
+[project]
+name = "StarChecker"
+version = "0.1"
+description = "A project that sends you SMS notifications via ntfy.sh when someone stars one of your devlogs!"
+authors = [{ name = "Shree Nag", email="shreeyuva2020@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+description-content-type = "text/markdown" 
+[project.urls]
+homepage = "https://github.com/shreeyuvan2020/devlog-star-checker"
+repository = "https://github.com/shreeyuvan2020/devlog-star-checker/issues"
+[build-system]
+requires = ["flit_core >= 3.12.0, <4"]
+build-backend = "flit_core.buildapi"
