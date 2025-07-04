@@ -9,6 +9,6 @@
 
 ## Usage:
 ### pip (Recommended)
-- Before installing via pip, log in or create an account at ntfy.sh and subscribe to the topic "DevlogStars"
+- Before installing via pip, log in or create an account at ntfy.sh and subscribe to the topic "Devlog_Stars"
 - Then run `pip install StarChecker` in the terminal
 - You might need to use `pip3 install StarChecker` on some systems
