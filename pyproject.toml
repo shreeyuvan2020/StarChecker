@@ -1,6 +1,6 @@
 [project]
 name = "StarChecker"
-version = "0.1"
+version = "0.2"
 description = "A project that sends you SMS notifications via ntfy.sh when someone stars one of your devlogs!"
 authors = [{ name = "Shree Nag", email="shreeyuva2020@gmail.com"}]
 readme = "README.md"
