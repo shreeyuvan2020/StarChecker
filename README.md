@@ -11,6 +11,6 @@
 ### pip (Recommended)
 - Before installing via pip log in or create an account at ntfy.sh and subscribe to the topic "Devlog_Stars"
 - `pip install StarChecker`
+- Before installing via pip, log in or create an account at ntfy.sh and subscribe to the topic "Devlog_Stars"
+- Then run `pip install StarChecker` in the terminal
 - You might need to use `pip3 install StarChecker` on some systems
-- Finally, type in `starchecker` in the terminal!
-- Then when someone stars your project you should see which devlog is starred in which project in that topic in ntfy.sh
