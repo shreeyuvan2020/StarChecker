@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+requirements.txt
+src/StarChecker/ChangeCheck.py
+src/StarChecker/DevFind.py
+src/StarChecker/__init__.py
+src/StarChecker.egg-info/PKG-INFO
+src/StarChecker.egg-info/SOURCES.txt
+src/StarChecker.egg-info/dependency_links.txt
+src/StarChecker.egg-info/entry_points.txt
+src/StarChecker.egg-info/requires.txt
+src/StarChecker.egg-info/top_level.txt
